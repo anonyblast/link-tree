@@ -12,6 +12,10 @@
         height: 60px;
         border-radius: 5px;
     }
+    .links:hover {
+        width: 305px;
+        background-color: blue;
+    }
     .links a {
         font-size: smaller;
     }
